@@ -1,0 +1,6 @@
+authtoken: 1qLxlbxgB3oj19OyBzpS8mLLeDm_6uRi1eFHAiQrTS6SbARTX
+tunnels:
+  salgadosmarques:
+    proto: http
+    addr: 80
+    hostname: salgadosmarques.ngrok-free.app
